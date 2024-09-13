@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kelvin Tsang</h1>
 <h3 align="center">A Full-Stack Web Developer based in NYC.</h3>
 
-- 🔭 I’m currently working on **i-Contract**
+- 🔭 I’m currently working on **iSparkNotes AI**
 
 - 🌱 I’m currently learning **websocket**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **ctsang94@gmail.com**
 
